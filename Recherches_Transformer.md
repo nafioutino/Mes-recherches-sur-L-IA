@@ -1,6 +1,3 @@
-# Introduction aux Transformers
-
-Le **Transformer** est un modèle qui a révolutionné le domaine du traitement automatique du langage naturel (NLP). Avant son introduction, les modèles de traduction et d’autres tâches de NLP utilisaient des réseaux de neurones récurrents, ce qui posait des limites en termes de rapidité et d’efficacité. Le Transformer, en revanche, repose sur un mécanisme d’attention qui lui permet de mieux traiter les relations entre les mots.
 
 ## Qu'est-ce qu'un Transformer ?
 
